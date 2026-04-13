@@ -12,8 +12,6 @@ A real-time pest detection and tracking application built with **YOLOv9**, **Dee
 
 ---
 
-- [Demo](#️-prototype-demo)
-
 ## 📋 Table of Contents
 
 - [Demo](#️-prototype-demo)
