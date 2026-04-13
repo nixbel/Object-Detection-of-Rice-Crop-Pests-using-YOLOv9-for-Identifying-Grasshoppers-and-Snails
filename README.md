@@ -4,8 +4,19 @@ A real-time pest detection and tracking application built with **YOLOv9**, **Dee
 
 ---
 
+## 📽️ Prototype Demo
+
+> Watch the recorded prototype demonstration below:
+
+<a href="https://drive.google.com/file/d/1biwlppbYeGulbKaMIOXd-xxYIhp2RuOw/view?usp=sharing" target="_blank">▶ Watch Demo on Google Drive</a>
+
+---
+
+- [Demo](#️-prototype-demo)
+
 ## 📋 Table of Contents
 
+- [Demo](#️-prototype-demo)
 - [Features](#features)
 - [Demo Modes](#demo-modes)
 - [Tech Stack](#tech-stack)
