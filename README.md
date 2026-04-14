@@ -28,7 +28,7 @@ A real-time pest detection and tracking application built with **YOLOv9**, **Dee
 - [Output & Logging](#output--logging)
 - [Known Limitations](#known-limitations)
 - [Troubleshooting](#troubleshooting)
-- [Author](#author)
+- [Author](#-author)
 - [Date Created](#-date-created)
 
 ---
