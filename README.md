@@ -419,12 +419,20 @@ The processed video is saved as `output_inference.avi` in the working directory 
 
 ## 📄 License
 
+---
+
 This project is for research and project purposes.
+
+---
 
 ## 👩🏻‍💻 Author
 
 Jacques Nico Belmonte - AI Developer
 
+---
+
 ## 📆 Date Created
 
 January 2026
+
+---
